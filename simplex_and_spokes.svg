@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="766.9386"
+   height="339.1008"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="424.01005"
+     inkscape:cy="102.71791"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-8.1328084,-295.9793)">
+    <path
+       sodipodi:type="star"
+       style="fill:#cccccc;stroke:#000000;stroke-width:1.5"
+       id="path2989"
+       sodipodi:sides="3"
+       sodipodi:cx="127.14286"
+       sodipodi:cy="243.79076"
+       sodipodi:r1="229.11098"
+       sodipodi:r2="114.55549"
+       sodipodi:arg1="0.52223969"
+       sodipodi:arg2="1.5694372"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 325.71429,358.07647 -71.117192,358.6158 126.83148,14.679991 z"
+       inkscape:transform-center-x="-0.13113745"
+       inkscape:transform-center-y="-45.320951"
+       transform="matrix(0.84229289,0,0,0.79311671,68.647315,350.04291)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 444.28571,630.07647 608.57143,532.93361"
+       id="path3009"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 608.57143,357.21933 0,177.14285"
+       id="path3011"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 773.57143,629.50504 609.28571,532.36218"
+       id="path3009-0"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3031"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(30,31.428571)"><flowRegion
+         id="flowRegion3033"><rect
+           id="rect3035"
+           width="327.14285"
+           height="72.857155"
+           x="-10"
+           y="270.93362" /></flowRegion><flowPara
+         id="flowPara3037"
+         style="font-size:25px">Full simplex betting space</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3031-8"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(449.0632,19.117211)"><flowRegion
+         id="flowRegion3033-1"><rect
+           id="rect3035-9"
+           width="327.14285"
+           height="72.857155"
+           x="-10"
+           y="270.93362"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara3037-4"
+         style="font-size:25px;text-align:center;text-anchor:middle">Restricted &quot;spoke&quot; betting space</flowPara></flowRoot>  </g>
+</svg>
