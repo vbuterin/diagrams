@@ -473,9 +473,11 @@
            y="96.951622"
            style="text-align:center;text-anchor:middle;fill:#008000" /></flowRegion><flowPara
          id="flowPara3992-4"
-         style="font-size:32px;fill:#008000">Vote on A</flowPara><flowPara
+         style="font-size:25px;fill:#008000">Vote on A</flowPara><flowPara
          id="flowPara3994-4"
-         style="font-size:32px;fill:#008000">EV = 0.9</flowPara><flowPara
+         style="font-size:25px;fill:#008000">EV = 0.9<flowSpan
+   style="fill:#ff0000"
+   id="flowSpan5432"> - 0.1 * 5 </flowSpan>= 0.4 </flowPara><flowPara
          id="flowPara4292-8"
          style="font-size:32px;fill:#008000" /></flowRoot>    <flowRoot
        xml:space="preserve"
